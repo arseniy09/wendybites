@@ -1,0 +1,80 @@
+
+body {
+	background: black;
+}
+.bg {
+
+	background: #444;
+	width: 39%;
+	margin: 30px 548px 30px 548px;
+	padding: 30px 30px 30px 30px;
+	align-self: center;
+
+}
+.content {
+
+	padding: 40px 50px 40px 50px;
+	border: 5px solid #777;
+
+
+}
+.title {
+	text-align: center;
+	color: #fff;
+
+
+
+}
+.name {
+	font-style: italic;
+	font-size: 36px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin: 0;
+	padding-top: 10px;
+
+}
+.links {
+		font-family: Helvetica, Arial, Sans-Serif;
+		font-size: 18px;
+		font-weight: 700;
+		border-bottom: 1px solid #999;
+		padding: 20px 0 30px 0;
+}
+.resume {
+	border-left: 2px solid #999;
+
+	padding-left: 10px;
+}
+.bod {
+	color: white;
+	line-height: 25px;
+	padding: 1px 0 20px 0 auto;
+	border-bottom: 1px solid #999;
+}
+.aboutme {
+		font-family: helvetica;
+		font-size: 28px;
+		font-weight: 700;
+		padding: s 0 30px 0;
+}
+.sum {
+		font-size: 20px;
+
+	}
+.footer{
+	font-family: Helvetica, Arial, Sans-Serif;
+	text-align: center;
+	padding: 20px 0 0 0;
+	font-size: 20px;
+	font-weight: bold;
+}
+a {
+	color: #0d9;
+}
+.image {
+	float: right;
+	float: top;
+	border: 1px solid #999; 
+	padding: 5px 5px 0 5px;
+	margin: 10px 10px 10px 10px;
+}
